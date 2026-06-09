@@ -1,5 +1,5 @@
 # 🏦 Bank Project
-project in banch master
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge)
 ![FXML](https://img.shields.io/badge/FXML-5C32B7?style=for-the-badge)
@@ -8,7 +8,7 @@ project in banch master
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-En%20desarrollo-5C32B7?style=for-the-badge)
 
-**Bank Project** es una aplicación bancaria de escritorio desarrollada en **JavaFX**, con interfaces construidas mediante **FXML**, estilos personalizados con **CSS** y almacenamiento local utilizando **SQLite**.
+**Bank Project** es una aplicación bancaria de escritorio desarrollada en **JavaFX**, con interfaces construidas mediante **FXML**, estilos personalizados con **CSS** y almacenamiento local utilizando **SQLite**. El proyecto esta en la rama master
 
 El proyecto simula un sistema bancario con dos tipos de usuario: **cliente** y **administrador**.  
 Desde el lado del cliente se plantea el acceso a un panel bancario con resumen de cuentas, transacciones, envío de dinero y consulta de cuentas. Desde el lado administrativo se plantea la gestión de clientes, creación de cuentas y depósitos.
