@@ -771,6 +771,64 @@ Esta separación permite modificar el diseño visual sin alterar directamente la
 
 ---
 
+---
+
+## 🖼️ Capturas del sistema
+
+Las siguientes capturas muestran las pantallas principales del sistema bancario. Se utilizan rutas `raw.githubusercontent.com` apuntando a la rama `master`, de forma que las imágenes puedan visualizarse correctamente aunque el README se edite desde otra rama.
+
+### Login
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SalazarPaulo/Bank-Project/master/Bank/login.png" width="650px" alt="Login Bank Project"/>
+</p>
+
+La pantalla de login permite seleccionar el tipo de usuario, ingresar credenciales y acceder al sistema como cliente o administrador.
+
+---
+
+### Dashboard del cliente
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SalazarPaulo/Bank-Project/master/dashboard.png" width="650px" alt="Dashboard Bank Project"/>
+</p>
+
+El dashboard presenta una vista general del sistema bancario, mostrando información relevante del cliente y accesos principales a las funciones disponibles.
+
+---
+
+### Cuentas bancarias
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SalazarPaulo/Bank-Project/master/accounts.png" width="650px" alt="Accounts Bank Project"/>
+</p>
+
+La vista de cuentas permite representar la información bancaria asociada al cliente, como cuentas corrientes, cuentas de ahorro y balances.
+
+---
+
+### Creación de cliente
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SalazarPaulo/Bank-Project/master/CreateClient.png" width="650px" alt="Create Client Bank Project"/>
+</p>
+
+La vista administrativa de creación de cliente está orientada al registro de nuevos usuarios dentro del sistema bancario.
+
+---
+
+### Vista compacta de pantallas
+
+| Login | Dashboard |
+|------|-----------|
+| <img src="https://raw.githubusercontent.com/SalazarPaulo/Bank-Project/master/Bank/login.png" width="420px" alt="Login Bank Project"/> | <img src="https://raw.githubusercontent.com/SalazarPaulo/Bank-Project/master/dashboard.png" width="420px" alt="Dashboard Bank Project"/> |
+
+| Cuentas | Crear cliente |
+|---------|---------------|
+| <img src="https://raw.githubusercontent.com/SalazarPaulo/Bank-Project/master/accounts.png" width="420px" alt="Accounts Bank Project"/> | <img src="https://raw.githubusercontent.com/SalazarPaulo/Bank-Project/master/CreateClient.png" width="420px" alt="Create Client Bank Project"/> |
+
+---
+
 ## 🧠 Patrones y conceptos aplicados
 
 Este proyecto aplica varios conceptos importantes de desarrollo de software:
